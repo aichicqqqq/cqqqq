@@ -1,0 +1,12 @@
+[service]
+AppMode=debug
+HttpPort=:3030
+
+
+[mysql]
+Db=mysql
+DbHost=localhost
+DbPort=3306
+DbUser=cqqqq
+DbPassWord=chq357159
+DbName=todolist
