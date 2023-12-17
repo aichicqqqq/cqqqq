@@ -1,1 +1,10 @@
-# cqqqq
+api:controller层
+cmd：程序启动
+conf：存储配置文件
+middleware：中间件层
+pkg/e：错误码
+pkg/util：工具函数
+db：数据库
+routes：路由逻辑实现
+service：接口函数
+types：所定义的所有结构体
